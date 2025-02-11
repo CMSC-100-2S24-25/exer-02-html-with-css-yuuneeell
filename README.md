@@ -64,6 +64,8 @@ git push origin main
     - JavaScript for interactivity.
 2. If done, you can push your updates to your repository to automatically update your GitHub Page.
 
+### ***Click [here](https://pages.github.com/) for more information about GitHub Pages.***
+
 ## Key Takeaways from the Exercise
 This exercise was very tricky at first since it's been so long since I created a webpage from scratch using HTML and CSS. But after creating my static webpage for the exercise, it reinforced and actually expanded my knowledge in writing HTML/CSS on designing a webpage. It also strengthened my skill in version control by integrating the use of git and GitHub on doing the exercise which makes managing my files easier and more efficient.
 
