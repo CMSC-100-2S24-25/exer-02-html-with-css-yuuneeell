@@ -14,7 +14,7 @@ Student Number: 2023-00895
 Section: C-1L
 
 ## Live Wesbite
-Link: 
+Link: CMSC-100-2S24-25.github.io/exer-02-html-with-css-yuuneeell
 
 ## How To Create Your GitHub Page
 Steps:
