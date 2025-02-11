@@ -1,0 +1,19 @@
+body {
+    background-color: #121110;
+}
+
+.text-color {
+    color: wheat;
+}
+
+div {
+    /* background-color: wheat; */
+    color: white;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
