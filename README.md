@@ -25,4 +25,5 @@ Steps:
 ## References
 All of the website guides visited to create my webpage:
 - https://www.w3schools.com/howto/howto_css_image_center.asp
-- 
+- (Color Palette used for the static webpage) https://colorhunt.co/palette/181c143c3d37697565ecdfcc 
+- (Webpage Title Icon) https://www.flaticon.com/free-icon/book_15972175?term=autobiography&page=1&position=14&origin=search&related_id=15972175
