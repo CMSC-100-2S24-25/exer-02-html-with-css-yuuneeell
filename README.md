@@ -57,7 +57,7 @@ git push origin main
 3. Visit the URL in your browser to see your live site.
 
 
-## **Step 6: Customize Your GitHub Page**
+### **Step 6: Customize Your GitHub Page**
 1. Add more content, such as:
     - An `index.html` file for the homepage.
     - CSS files for styling.
