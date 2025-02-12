@@ -30,7 +30,7 @@ div {
 
 .main-font h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: bolder;
+    font-weight: bold;
     font-size: 25px;
     color: #ECDFCC;
     margin-bottom: 5px;
@@ -39,7 +39,7 @@ div {
 .main-font p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 50;
-    font-size: 15px;
+    font-size: 13px;
     color: white;
 }
 
@@ -59,7 +59,7 @@ div {
 
 .header-title h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: lighter;
+    font-weight: light;
     font-size: 25px;
     text-align: center;
     color: #697565;
@@ -102,6 +102,25 @@ div {
     font-weight: 50;
     font-size: 15px;
     color: white;
+}
+
+.proj-img {
+    border: 5px solid #3C3D37;
+    border-radius: 5px;
+    width: 300px;
+    justify-content: center;
+}
+
+.proj-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    font-size: 15px;
+    justify-content: center;
+}
+
+.proj-grid span {
+    align-self: center;
 }
 
 .footer-text h2 {
